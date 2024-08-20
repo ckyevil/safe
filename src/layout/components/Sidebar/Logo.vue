@@ -24,7 +24,7 @@ export default {
   },
   data() {
     return {
-      title: '安全星盟团队',
+      title: '隐私星链团队',
       logo: 'https://s2.loli.net/2024/05/25/EeRrVokAGKqbS8N.png'
     }
   }
