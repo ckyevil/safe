@@ -1,6 +1,6 @@
 import defaultSettings from '@/settings'
 
-const title = defaultSettings.title || '安全星盟'
+const title = defaultSettings.title || '隐私星链'
 
 export default function getPageTitle(pageTitle) {
   if (pageTitle) {
