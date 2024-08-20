@@ -51,8 +51,8 @@ const defalutList = [
   { text: '进行一次服务端训练', done: false },
   { text: '上传私有池数据到公有池', done: false },
   { text: '使用公有池数据', done: false },
-  { text: '与我们安全星盟助手进行交流', done: false },
-  { text: '支持我们安全星盟系统', done: true },
+  { text: '与我们隐私星链助手进行交流', done: false },
+  { text: '支持我们隐私星链系统', done: true },
   { text: '支持我们研发团队', done: true },
   { text: '感谢您的使用', done: true }
 ]
